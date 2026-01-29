@@ -21,7 +21,9 @@ git clone [https://github.com/Sidratul02/Html-resume.git]
 Then make changes if needed and open with Live Server.
 
 ## Preview
+(https://sidratul02.github.io/Html-resume/)
 
+<img width="624" height="663" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/96e8841b-e2b2-4188-829e-f393a64a733d" />
 
 ## Steps to deploy on GitHub Pages
 
