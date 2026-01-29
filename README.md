@@ -17,6 +17,7 @@ Web Dev Cohort 2026 assignment.
 ```zsh
 git clone [https://github.com/Sidratul02/Html-resume.git]
 ```
+Then make changes if needed and open with Live Server.
 
 ## Preview
 (https://sidratul02.github.io/Html-resume/)
