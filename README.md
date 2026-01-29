@@ -22,7 +22,6 @@ Then make changes if needed and open with Live Server.
 
 ## Preview
 
-![Single-page resume preview](https://github.com/user-attachments/assets/db815527-5b34-4b77-8bc5-8c22c4e61d23)
 
 ## Steps to deploy on GitHub Pages
 
